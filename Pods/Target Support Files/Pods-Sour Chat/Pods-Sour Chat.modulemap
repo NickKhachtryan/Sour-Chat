@@ -1,0 +1,6 @@
+framework module Pods_Sour_Chat {
+  umbrella header "Pods-Sour Chat-umbrella.h"
+
+  export *
+  module * { export * }
+}
